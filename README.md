@@ -13,8 +13,8 @@ A Streamlit app for data analysis and visualization for TechCorp Solutions. This
 
 1. Clone the repository:
 	```bash
-	git clone https://github.com/yourusername/streamlit-app-techcorp.git
-	cd streamlit-app-techcorp
+	git clone https://github.com/alexkocev/techcorp-analysis-dashboard.git
+	cd techcorp-analysis-dashboard
 	```
    
 
